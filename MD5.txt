@@ -1,0 +1,30 @@
+﻿服务器资源目录(https://raw.githubusercontent.com/scimence/Software/master/)
+本地资源目录(F:\GitHub\Software.git\trunk\)
+待更新资源目录(https://raw.githubusercontent.com/scimence/Software/master/MD5.txt)
+
+待更新文件(
+
+.NET Reflector（反编译工具）.zip(bd923fd406cef8f703258d12fbb9b873)
+dex与jar转换工具.zip(6915b6a5f816e705aea9a3cf248c3351)
+FileEncrypt.zip(6f5920e05dbcddbed724ea03b962cbb8)
+getApkSignInfo（apk签名信息查看工具）.zip(9c654b1227cbe6993ecc2c4b5ce22b80)
+github_host.zip(598d8f3ce6b5bca52ec8a19153eb9311)
+HTTP Analyzer v7.5.3.455 （HTTP协议分析工具）.zip(c2b2474d1bb6a63ae0340c1a5ba38abb)
+Ico图标提取器.zip(68ed4d9ee3e5056c30752ccbba8be206)
+JSQL2008_r2_setup.rar(a5bd77e6da9037fbff02f80522467606)
+LICENSE(86d3f3a95c324c9479bd8986968f4327)
+openssl-0.9.8k_WIN32.zip(776701950aa3729826f1c98a8de21ad8)
+openssl-0.9.8k_X64.zip(ea05768e685570adde6b3254111b5a5f)
+pfx_wosign工具.zip(4d596c553c2336d5363dc1322462ca20)
+pfx证书一键生成.zip(13eb6bd08907a7c5981681d32882225)
+ShadowsocksR-win-4.9.0.zip(ab5cf51ff5f946da4aeb7c3423e00ac6)
+SnapShot.zip(318f184d8be1bd2c93ca20c4a7023e8d)
+定时关机酷.zip(87d0594bb48e0ef860de69d5e8e08860)
+数据恢复.zip(8aacc986d38d4a700ecfd0e3987ff57a)
+极限压缩工具.zip(a38108af233e05de0b7695326d6ec09f)
+生成MD5.bat(0dffdb894b07f72420896a3571b53a30)
+进程管理器_20140601142739.rar(ca0603f36b9ff2ebceb2d14a1cf64202)
+tools/ContentReplace.exe(f8ebf444b5ea503110a27920dc593036)
+tools/getMD5.exe(5b985c526e7a9745e7f7b9f024184d85)
+
+)待更新文件
