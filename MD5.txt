@@ -5,6 +5,7 @@
 待更新文件(
 
 .NET Reflector（反编译工具）.zip(bd923fd406cef8f703258d12fbb9b873)
+crazybumpsetup.rar(1bc1665b360554f17229bfaf311e13c4)
 dex与jar转换工具.zip(6915b6a5f816e705aea9a3cf248c3351)
 FileEncrypt.zip(6f5920e05dbcddbed724ea03b962cbb8)
 getApkSignInfo（apk签名信息查看工具）.zip(9c654b1227cbe6993ecc2c4b5ce22b80)
@@ -25,6 +26,7 @@ SnapShot.zip(318f184d8be1bd2c93ca20c4a7023e8d)
 生成MD5.bat(0dffdb894b07f72420896a3571b53a30)
 进程管理器_20140601142739.rar(ca0603f36b9ff2ebceb2d14a1cf64202)
 tools/ContentReplace.exe(f8ebf444b5ea503110a27920dc593036)
+tools/EncoderTool_Alphabet.exe(01ce24dfc03ee1ea84e77818676b35ca)
 tools/getMD5.exe(5b985c526e7a9745e7f7b9f024184d85)
 
 )待更新文件
